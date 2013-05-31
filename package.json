@@ -1,7 +1,7 @@
 {
   "name": "uneeq",
   "author": "George Ornbo <george@shapeshed.com> (http://shapeshed.com)",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Generate a unique identifier for a node process",
   "keywords": [
     "unique",
